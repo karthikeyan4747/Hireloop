@@ -1,0 +1,46 @@
+# Curated public job boards. Every token below was checked against the live API
+# and returned at least one posting. Boards that returned 0 or 404 were dropped.
+# Add your own: the token is the slug in boards.greenhouse.io/<token> or jobs.lever.co/<token>.
+
+greenhouse:
+  - {token: stripe, name: Stripe}
+  - {token: airbnb, name: Airbnb}
+  - {token: databricks, name: Databricks}
+  - {token: cloudflare, name: Cloudflare}
+  - {token: discord, name: Discord}
+  - {token: figma, name: Figma}
+  - {token: instacart, name: Instacart}
+  - {token: robinhood, name: Robinhood}
+  - {token: reddit, name: Reddit}
+  - {token: pinterest, name: Pinterest}
+  - {token: twilio, name: Twilio}
+  - {token: datadog, name: Datadog}
+  - {token: mongodb, name: MongoDB}
+  - {token: elastic, name: Elastic}
+  - {token: asana, name: Asana}
+  - {token: gitlab, name: GitLab}
+  - {token: anthropic, name: Anthropic}
+  - {token: coinbase, name: Coinbase}
+  - {token: dropbox, name: Dropbox}
+  - {token: lyft, name: Lyft}
+  - {token: okta, name: Okta}
+  - {token: samsara, name: Samsara}
+  - {token: brex, name: Brex}
+  - {token: vercel, name: Vercel}
+  - {token: gusto, name: Gusto}
+  - {token: flexport, name: Flexport}
+  - {token: carta, name: Carta}
+  - {token: toast, name: Toast}
+  - {token: zscaler, name: Zscaler}
+  - {token: duolingo, name: Duolingo}
+  - {token: scaleai, name: Scale AI}
+  - {token: groww, name: Groww}
+
+lever:
+  - {token: spotify, name: Spotify}
+  - {token: palantir, name: Palantir}
+  - {token: cred, name: CRED}
+  - {token: meesho, name: Meesho}
+  - {token: zeta, name: Zeta}
+  - {token: ro, name: Ro}
+  - {token: outreach, name: Outreach}
